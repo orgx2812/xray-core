@@ -1,0 +1,2 @@
+# xray-core
+Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
